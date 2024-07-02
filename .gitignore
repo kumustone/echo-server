@@ -1,0 +1,30 @@
+# 忽略c++的编译文件
+echo-server
+run.sh
+*.o
+*.a
+*.so
+*.out
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+
+# 忽略golang的编译文件
+*.out
+*.exe
+*.test
+*.prof
+
+# 忽略日志文件
+*.log
+
+# 忽略vscode的工程文件
+.vscode/
+
+# 忽略idea的工程文件
+.idea/
+*.iml
+*.ipr
+*.iws

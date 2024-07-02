@@ -1,0 +1,14 @@
+[Unit]
+Description=Echo Server Service
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/home/code/echo-server/echo-server
+Restart=on-failure
+User=root
+Group=root
+
+[Install]
+WantedBy=multi-user.target
+

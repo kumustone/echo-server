@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "data": {
+        "id": 12345,
+        "name": "Sample Data",
+        "description": "This is a sample JSON response for a common API endpoint.",
+        "timestamp": "2024-06-20T12:34:56Z",
+        "details": {
+            "attribute1": "value1",
+            "attribute2": "value2",
+            "attribute3": "value3"
+        }
+    },
+    "message": "Request completed successfully"
+}

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Content-Type: application/json;charset=utf8
+Date: Wed, 20 Mar 2024 01:58:06 GMT
+Content-Length: 20000
+ 
+
+{
+"status": 1,
+"data": {
+"phone_number": "010-12345678",
+"bus_number": "京A12345",
+"org_code": "12345678-X"
+}
+}
