@@ -1,7 +1,7 @@
 
 # Echo Server
 
-[中文版请点这里](README_cn.md)
+[中文版请点这里](README_zh.md)
 
 Echo Server HTTP response traffic constructor for convenient testing. The echo-server provides HTTP interfaces by returning response bodies stored in files via interfaces and file downloads. It allows customization of response headers, response bodies, transfer encoding, etc. Suitable for various HTTP traffic testing scenarios, such as HTTP traffic auditing, gateway functionality testing, and frontend stubbing tests.
 
