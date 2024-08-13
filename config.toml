@@ -1,0 +1,6 @@
+echo_path = "/home/code/echo-server/echo"
+data_path = "/home/code/echo-server/data"
+download_path = "/home/code/echo-server/download"
+
+use_gzip = false
+use_chunk = false
