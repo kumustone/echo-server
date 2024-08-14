@@ -46,7 +46,7 @@ func main() {
 }
 
 func setupLogging() {
-	logDir := "/var/log/echo-server"
+	logDir := "./log/echo-server"
 	logFile := filepath.Join(logDir, "echo-server.log")
 
 	if err := os.MkdirAll(logDir, 0755); err != nil {

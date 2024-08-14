@@ -1,6 +1,6 @@
-echo_path = "/home/code/echo-server/echo"
-data_path = "/home/code/echo-server/data"
-download_path = "/home/code/echo-server/download"
+echo_path = "/Users/liubo/code/kumustone/echo-server/echo"
+data_path = "/Users/liubo/code/kumustone/echo-server/data"
+download_path = "/Users/liubo/code/kumustone/echo-server/download"
 
 use_gzip = false
 use_chunk = false
